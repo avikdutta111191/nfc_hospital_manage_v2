@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nazi/StudioProjects/nfc_hospital_manage/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/nazi/.gradle/caches/transforms-2/files-2.1/fbf511b78fa8d94d434213f6b5163dad/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/nazi/StudioProjects/nfc_hospital_manage/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/nazi/.gradle/caches/transforms-2/files-2.1/fbf511b78fa8d94d434213f6b5163dad/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/nazi/StudioProjects/nfc_hospital_manage/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/nazi/.gradle/caches/transforms-2/files-2.1/fbf511b78fa8d94d434213f6b5163dad/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/nazi/StudioProjects/nfc_hospital_manage/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/nazi/.gradle/caches/transforms-2/files-2.1/fbf511b78fa8d94d434213f6b5163dad/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

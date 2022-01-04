@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692414506230",
+    "project_id": "nfc-notify",
+    "storage_bucket": "nfc-notify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692414506230:android:483ab9f42e91a0a9a9f8d7",
+        "android_client_info": {
+          "package_name": "com.example.nfc_hospital_manage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692414506230-od7u174tdd15ke8g9flp6fvc6q21nh5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOTrdXA9U6_YN14UHo8r0XqqTm2kXH5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692414506230-od7u174tdd15ke8g9flp6fvc6q21nh5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

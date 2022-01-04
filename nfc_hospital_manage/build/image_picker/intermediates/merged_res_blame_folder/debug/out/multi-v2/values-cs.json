@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nazi/StudioProjects/nfc_hospital_manage/build/image_picker/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+            "map": [
+                {
+                    "source": "/home/nazi/.gradle/caches/transforms-2/files-2.1/fbf511b78fa8d94d434213f6b5163dad/core-1.1.0/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/nazi/StudioProjects/nfc_hospital_manage/build/image_picker/intermediates/res/merged/debug/values-cs/values-cs.xml",
+            "map": [
+                {
+                    "source": "/home/nazi/.gradle/caches/transforms-2/files-2.1/fbf511b78fa8d94d434213f6b5163dad/core-1.1.0/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
